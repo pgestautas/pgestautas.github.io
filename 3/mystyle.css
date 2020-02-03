@@ -1,0 +1,16 @@
+table {
+    border: 3px solid black;
+}
+.antraste {
+    font-family: cursive;
+}
+body {
+    background-color: #99b3ff;
+}
+.lentele {
+    height: 300px;
+}
+#vardas {
+    font-family: cursive;
+    text-align: right;
+}

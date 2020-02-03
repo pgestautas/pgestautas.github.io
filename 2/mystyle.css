@@ -1,0 +1,18 @@
+img {
+    height:300px;
+    width:300px;
+}
+body {
+    background-color:#99ceff;
+    font-size:25pt;
+}
+.pavojus {
+    color:#d01600;
+}
+.nuobodu {
+    font-family: cursive;
+}
+#name {
+    text-align: right;
+    font-family: cursive;
+}
